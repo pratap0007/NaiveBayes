@@ -1,6 +1,6 @@
-0
+
 # Naive Bayes Classifier 
-Pridiction of ondet Diabetes using Naive Bayes Classifier
+Pridiction of ondet Diabetes using Naive Bayes Classifier.
 # Dataset : Pima Indians Diabetes dataset
 https://www.kaggle.com/uciml/pima-indians-diabetes-database#diabetes.csv
 
